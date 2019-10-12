@@ -1,6 +1,6 @@
 # Hello-World
 
-hello everyone 
+Hello everyone!! 
 
 Deepika here! I am an engineering aspirant.I like to work with startups.
 I like C.
